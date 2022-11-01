@@ -8,5 +8,7 @@
   width: 200px;
   height: 200px;
   background-color: brown;
-  transform: rotate(50deg);
+  transform: rotate(120deg);
+  font-size: 32px;
+  color: black;
 }
